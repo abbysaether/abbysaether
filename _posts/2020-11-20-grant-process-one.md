@@ -8,11 +8,11 @@ Yet, this does make my project expandable. By this, I mean that after this grant
 
 ## The Idea of a Writing Center
 
-I’ve always been familiar with the writing center. When I was in high school, I was briefly involved with my school’s center. Now, in college, I am currently enrolled in the course to train writing consultants. One of the main concerns with writing centers is how to adequately advertise that they are not a fix-it shop for bad writing. Actually, they’re where any level of a writer can go to *discuss and collaborate* on their writing with a trained consultant. 
+I’ve always been familiar with the writing center. I was briefly involved with my high school’s center back in the day. Now, in college, I am currently enrolled in the course to train writing consultants. One of the main concerns with writing centers is how to adequately advertise that they are *not* a fix-it shop for bad writing. Actually, they’re where any level writer can go to *discuss and collaborate* on their writing with a trained consultant. 
 
-Unfortunately, the misconception that they’re fix-it shops is pervasive and harmful to the writing center’s image. With my VR project, writers will be able to “test” out what a writing center is like virtually primarily through role-playing, like a video game. 
+Unfortunately, the misconception that they’re fix-it shops is pervasive and harmful to the writing center’s image. With my VR project, writers will be able to “test” out what a writing center is like virtually primarily through role-playing, like a video game. This will work to mend this misconception. Moreover, my research as shown that learning with VR is very effective.  
 
-That’s the end goal at least. For now, it’s just going to be working on the skeleton of the VR platform. Other academic projects like this exist, an example is the Harlem VR project. However, there are none specifically about the writing center. I found this interesting since so much scholarship exists about how to break down the fix-it shop idea, yet nothing exists that creatively puts it into practice. 
+That’s the end goal at least. For now, it’s just going to be working on the skeleton of the VR platform. Other academic projects like this exist, an example is the Harlem VR project shown below. However, there are none specifically about the writing center. I found this interesting since so much scholarship exists about how to break down the fix-it shop idea, yet nothing exists that creatively puts it into practice. 
 
 ![Harlem Project](https://abbysaether.github.io/abbysaether/images/HarlemProject.png)
 
