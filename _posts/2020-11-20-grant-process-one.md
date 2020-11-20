@@ -14,7 +14,7 @@ Unfortunately, the misconception that they’re fix-it shops is pervasive and ha
 
 That’s the end goal at least. For now, it’s just going to be working on the skeleton of the VR platform. Other academic projects like this exist, an example is the Harlem VR project. However, there are none specifically about the writing center. I found this interesting since so much scholarship exists about how to break down the fix-it shop idea, yet nothing exists that creatively puts it into practice. 
 
-[Harlem Project](https://abbysaether.github.io/abbysaether/images/HarlemProject.png)
+![Harlem Project](https://abbysaether.github.io/abbysaether/images/HarlemProject.png)
 
 ## Going Forward
 
